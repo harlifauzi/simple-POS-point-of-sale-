@@ -1,3 +1,16 @@
+=======================================================
+
+Installation :
+  1. Clone or download this repo
+  2. Open this directory with cmd and run 'npm install' for install all package and library in package.json
+  3. Run this project on local server with 'npm start'
+
+========================================================
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
